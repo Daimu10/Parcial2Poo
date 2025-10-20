@@ -1,8 +1,9 @@
 package Modelo;
 
-import com.uao.parcial2poo.Modelo.*;
 import com.uao.parcial2poo.Modelo.Estudiante;
 import com.uao.parcial2poo.Modelo.Profesor;
+import com.uao.parcial2poo.Modelo.ProfesorMedioTiempo;
+import com.uao.parcial2poo.Modelo.ProfesorTiempoCompleto;
 import com.uao.parcial2poo.Sistema.SistemaGestion;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
